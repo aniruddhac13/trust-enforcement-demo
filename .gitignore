@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.venv/
+venv/
+services/*/data/*.json
+services/rm_service/data/resources/*
+artifacts/pki/
+demo_runtime/

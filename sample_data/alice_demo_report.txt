@@ -1,0 +1,3 @@
+Alice confidential health report.
+Only Bob should receive this after consent approval and consent-bound key release.
+Mallory and the malicious Data Trust must not be able to recover the plaintext.

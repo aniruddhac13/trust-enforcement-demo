@@ -1,0 +1,7 @@
+cryptography>=43.0.0
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+requests>=2.32.3
+PyJWT>=2.9.0
+python-multipart>=0.0.9
+nicegui>=2.3.0
